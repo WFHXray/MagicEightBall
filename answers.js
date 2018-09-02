@@ -19,4 +19,6 @@ module.exports = [
   'My sources say no',
   'Outlook not so good',
   'Very doubtful'
+  'gtg'
+  'Fuck off'
 ];
